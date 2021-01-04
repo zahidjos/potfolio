@@ -1,0 +1,15 @@
+h1{
+    font-size: 50px;
+
+}
+span{
+    color: peru;
+}
+.half{
+    float: left;
+    width: 50%;
+    border: 2px solid red;
+}
+.haft img{
+    width: 100%;
+}
